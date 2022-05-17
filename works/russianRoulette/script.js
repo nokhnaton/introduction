@@ -10,4 +10,4 @@ const reload = () => {
     count = 0
     const countElement = document.querySelector('#status')
     countElement.innerText = 'Not dead yet...'
-  }
+}
